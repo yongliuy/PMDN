@@ -24,7 +24,9 @@ We also  propose a Prior-compensated Multi-stage Dehazing Network (PMDN), which 
 To utilize prior knowledge effectively, we introduce a Prior-based Feature Compensation Module (PFCM), guiding intermediate results with an adaptive weight. 
 Additionally, we propose a MixCut Consistent Dehazing (MCCD) strategy to mix paired and derived images using a cross-cutting scheme, reinforcing dehazing through consistency principles.
 Extensive experiments demonstrate the effectiveness of our dataset and the superior performance of PMDN over existing state-of-the-art dehazing methods.
-
+<p align="center">
+<img src=assets/Graphical_Abstract.jpg width="1000px"/>
+</p>
 
 ## Update
 - **2025.07.15**: Create this repository.
